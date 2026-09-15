@@ -7,9 +7,8 @@ Portfólio pessoal de Monica Ribeiro.
 - `index.html`
 - `styles.css`
 - `script.js`
-- `projetos/`
-- `assets/`
 - `Dockerfile`
+- `assets/favicon.svg`
 
 ## Deploy com Docker / Easypanel
 
