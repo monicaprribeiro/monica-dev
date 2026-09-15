@@ -7,8 +7,9 @@ Portfólio pessoal de Monica Ribeiro.
 - `index.html`
 - `styles.css`
 - `script.js`
+- `projetos/`
+- `assets/`
 - `Dockerfile`
-- `assets/favicon.svg`
 
 ## Deploy com Docker / Easypanel
 
@@ -26,4 +27,4 @@ Após enviar os arquivos ao GitHub, faça o rebuild/redeploy da aplicação no E
 
 - E-mail: contato@monica.dev.br
 - LinkedIn: https://www.linkedin.com/in/monicaprribeiro
-- WhatsApp: +55 11 99893-9919
+- WhatsApp: @ribeiro_monica
